@@ -31,7 +31,7 @@
    ```
 
 7. ```
-   nohup docker run -d --restart always --name dups dups > bot.log &
+   nohup docker run -d --restart always --name dup dups > bot.log &
    ```
 
    
